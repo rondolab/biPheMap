@@ -1,0 +1,12 @@
+name: biphemapv2
+title: biPheMapv2
+username: bafnas01
+account: bafnas01
+server: rstudio-connect.hpc.mssm.edu
+hostUrl: https://rstudio-connect.hpc.mssm.edu/__api__
+appId: 54
+bundleId: 216
+url: https://rstudio-connect.hpc.mssm.edu/biPheMap/
+when: 1619797439.17023
+asMultiple: FALSE
+asStatic: FALSE
