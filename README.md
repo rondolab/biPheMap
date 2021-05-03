@@ -8,8 +8,7 @@ We performed three steps to create the biPheMap:
 The biPheMap R shiny app is accessible at : https://rstudio-connect.hpc.mssm.edu/biPheMap/
 
 <h2>Reference</h2>
-G Rocheleau et al. 2021. A tissue-level phenome-wide network map of colocalized genes and phenotypes in the UK Biobank. bioRxiv doi: https://doi.org/10.1101/2021.04.30.441974![image](https://user-images.githubusercontent.com/29777308/116899046-19a52780-ac05-11eb-97dd-d5a3a99f9f2d.png)
-
+G Rocheleau et al. 2021. A tissue-level phenome-wide network map of colocalized genes and phenotypes in the UK Biobank. bioRxiv doi: https://doi.org/10.1101/2021.04.30.441974
 
 <h2>Datasets</h2>
 <ul>
